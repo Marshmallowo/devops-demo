@@ -1,4 +1,4 @@
-name: CI/CD
+xname: CI/CD
 
 on:
   push:
